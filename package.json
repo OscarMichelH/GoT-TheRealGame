@@ -1,11 +1,11 @@
 {
-    "title": "JDCP-Hub",
-    "name": "jdcp-hub",
-    "version": "5.0.7",
+    "title": "GoT-TheRealGame",
+    "name": "got-therealgame",
+    "version": "1.0.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Hub is a simple, yet elegant resume and CV JDCP Homepage",
+    "description": "Landing page",
     "keywords": [
         "css",
         "sass",
@@ -15,10 +15,10 @@
         "template"
     ],
     "license": "MIT",
-    "author": "kd62690",
+    "author": "Oscar Michel Herrera",
     "repository": {
         "type": "git",
-        "url": "https://github.deere.com/vs78130/Hub.git"
+        "url": "https://github.com/OscarMichelH/GoT-TheRealGame.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.9.0",
