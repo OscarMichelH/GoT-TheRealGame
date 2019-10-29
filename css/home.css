@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'GoT';
-    src: url('../GoT-TheRealGame/fonts/got.ttf') format('truetype');
+    src: url('/fonts/got.ttf') format('truetype');
 }
 
 #myVideo {
